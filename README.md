@@ -27,7 +27,7 @@ prompt> ./disk.py -h
 
 章节 | 你要做的 
 --------|-----------
-[抽象：进程](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) | 运行 [process-运行.py](cpu-intro) 
+[抽象：进程](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) | 运行 [process-run.py](cpu-intro) 
 [插叙：进程API](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf) | 运行 [fork.py](cpu-api) 然后写点代码 
 [机制：受限直接执行](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf) | 写点代码 
 [进程调度：介绍](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) | 运行 [scheduler.py](cpu-sched) 
